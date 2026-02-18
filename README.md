@@ -61,31 +61,31 @@ Below are screenshots demonstrating use cases. Each image is embedded below with
 ![Add Product](Screenshots1/addProduct.PNG)
 
 ### Getting All Products
-![Get All Products](Screenshots1/Get all products.PNG)
+![Get All Products](Screenshots1/Getallproducts.PNG)
 
 ### Getting by Category
-![Get by Category](Screenshots1/Get by category.PNG)
+![Get by Category](Screenshots1/Getbycategory.PNG)
 
 ### Getting by Brand
-![Get by Brand](Screenshots1/Product by brand.PNG)
+![Get by Brand](Screenshots1/Productbybrand.PNG)
 
 ### Getting by Price and Brand
-![Get by Price and Brand](Screenshots1/Get by price and brand.PNG)
+![Get by Price and Brand](Screenshots1/Getbypriceandbrand.PNG)
 
 ### Getting by ID
-![Get by ID](Screenshots1/Product by Id.PNG)
+![Get by ID](Screenshots1/ProductbyId.PNG)
 
 ### Checking Existence
-![Product Exists](Screenshots1/Product exists.PNG)
+![Product Exists](Screenshots1/Productexists.PNG)
 
 ### Updating Stock
-![Stock Update](Screenshots1/stock update.PNG)
+![Stock Update](Screenshots1/stockupdate.PNG)
 
 ### Updating a Product
-![Update Product](Screenshots1/update Product.PNG)
+![Update Product](Screenshots1/updateProduct.PNG)
 
 ### Deleting a Product
-![Delete Product](Screenshots1/delete product.PNG)
+![Delete Product](Screenshots1/deleteproduct.PNG)
 
 > **Note:** Ensure the `Screenshots1` folder is at the repository root so that image paths resolve correctly.
 
