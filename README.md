@@ -1,3 +1,8 @@
+## Student Information
+- **Name:** KAMANZI MILLIAM
+- **ID:** 27523
+
+
 # RESTful API Assignment
 
 This project is a simple Spring Boot application demonstrating a RESTful API for managing products. The application includes basic CRUD operations and filtering capabilities.
