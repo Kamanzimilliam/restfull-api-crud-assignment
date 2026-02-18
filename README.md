@@ -58,7 +58,7 @@ The following endpoints are available. Each row shows the full request URL (base
 Below are screenshots demonstrating use cases. Each image is embedded below with a short description.  Paths shown in screenshots reflect the real base URL and endpoints (port 8088 with `/api/products`).
 
 ### Adding a Product
-![Add Product](../Screenshots1/addProduct.PNG)
+![Add Product](Screenshots1/addProduct.PNG)
 
 ### Getting All Products
 ![Get All Products](../Screenshots1/Get all products.PNG)
