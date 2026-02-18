@@ -112,6 +112,6 @@ The project does not include a pre-populated database. You can create products v
 }
 ```
 
-## License
+## Conclusion
 
-This project is provided for educational purpose
+This project demonstrates the implementation of a RESTful API using Spring Boot and PostgreSQL. Through this assignment, I was able to apply key concepts including CRUD operations, Spring Data JPA for database interaction, and RESTful design principles. The API provides a solid foundation for managing e-commerce products and can be extended with additional features such as authentication, pagination, and more advanced filtering in the future.
