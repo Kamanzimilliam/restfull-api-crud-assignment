@@ -34,7 +34,7 @@ This project is a simple Spring Boot application demonstrating a RESTful API for
    ```bash
    java -jar target/restfullApiAssignment-0.0.1-SNAPSHOT.jar
    ```
-5. The API will start on **http://localhost:8088** (configured in `application.properties`).  The base path for all endpoints is `/api/products`.
+5. The API will start on **http://localhost:8088** (configured in `application.properties`). The base path for all endpoints is `/api/products`.
 
 ## API Endpoints
 
@@ -55,37 +55,37 @@ The following endpoints are available. Each row shows the full request URL (base
 
 ## Sample Interactions
 
-Below are screenshots demonstrating use cases. Each image is embedded below with a short description.  Paths shown in screenshots reflect the real base URL and endpoints (port 8088 with `/api/products`).
+Below are screenshots demonstrating use cases. Each image is embedded below with a short description. Paths shown in screenshots reflect the real base URL and endpoints (port 8088 with `/api/products`).
 
 ### Adding a Product
 ![Add Product](Screenshots1/addProduct.PNG)
 
 ### Getting All Products
-![Get All Products](../Screenshots1/Get all products.PNG)
+![Get All Products](Screenshots1/Get all products.PNG)
 
 ### Getting by Category
-![Get by Category](../Screenshots1/Get by category.PNG)
+![Get by Category](Screenshots1/Get by category.PNG)
 
 ### Getting by Brand
-![Get by Brand](../Screenshots1/Product by brand.PNG)
+![Get by Brand](Screenshots1/Product by brand.PNG)
 
 ### Getting by Price and Brand
-![Get by Price and Brand](../Screenshots1/Get by price and brand.PNG)
+![Get by Price and Brand](Screenshots1/Get by price and brand.PNG)
 
 ### Getting by ID
-![Get by ID](../Screenshots1/Product by Id.PNG)
+![Get by ID](Screenshots1/Product by Id.PNG)
 
 ### Checking Existence
-![Product Exists](../Screenshots1/Product exists.PNG)
+![Product Exists](Screenshots1/Product exists.PNG)
 
 ### Updating Stock
-![Stock Update](../Screenshots1/stock update.PNG)
+![Stock Update](Screenshots1/stock update.PNG)
 
 ### Updating a Product
-![Update Product](../Screenshots1/update Product.PNG)
+![Update Product](Screenshots1/update Product.PNG)
 
 ### Deleting a Product
-![Delete Product](../Screenshots1/delete product.PNG)
+![Delete Product](Screenshots1/delete product.PNG)
 
 > **Note:** Ensure the `Screenshots1` folder is at the repository root so that image paths resolve correctly.
 
@@ -109,4 +109,4 @@ The project does not include a pre-populated database. You can create products v
 
 ## License
 
-This project is provided for educational purposes.
+This project is provided for educational purpose
